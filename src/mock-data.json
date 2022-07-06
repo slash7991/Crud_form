@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Jenny Chan",
+      "age": "22",
+      "dateOfBirth": "1997-06-18",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "fullName": "Jessica warren",
+      "age": "23",
+      "dateOfBirth": "1999-05-09",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Frank",
+      "age": "24",
+      "dateOfBirth": "1998-2-12",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "fullName": "Jeremy Clark",
+      "age": "25",
+      "dateOfBirth": "1998-09-29",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymond Edwards",
+      "age": "26",
+      "dateOfBirth": "2000-01-07",
+      "gender": "Male"
+    }
+  ]
